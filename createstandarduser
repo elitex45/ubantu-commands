@@ -1,0 +1,4 @@
+Adding the new standard user.
+	     
+creating user ( change username with name of the user u want to create)
+        sudo adduser username
