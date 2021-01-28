@@ -1,0 +1,3 @@
+sudo apt --only-upgrade install program_name
+
+NOTE : run this command only after installing the program you want to upgrade
