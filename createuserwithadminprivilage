@@ -1,0 +1,10 @@
+NOTE : change username with name of the user you want to add
+
+1) creating user 
+        sudo adduser username
+        
+2) add user to sudo group to let user to use sudo command
+        usermod -aG sudo username
+        
+3) check if user exist in sudo group, this command shows list of users in sudo group
+        grep '^sudo' /etc/group
