@@ -1,2 +1,5 @@
 sudo apt update
 sudo apt install build-essential dkms linux-headers-$(uname-r)
+
+restart and click the device option in the virtaul box window and 
+click on insert guest additions cd image
