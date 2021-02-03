@@ -1,0 +1,3 @@
+# unzipping zip files with terminal
+unzip filename.zip
+# this will unzip the file and store the unzipped file in the same directory
