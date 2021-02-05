@@ -1,0 +1,4 @@
+to get permission to edit the files use this command
+sudo chown username path_of_folder_which_you_want_to_edit
+example:
+        sudo chown engineer /var/www/html
