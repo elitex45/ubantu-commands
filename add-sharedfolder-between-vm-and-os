@@ -1,2 +1,8 @@
 here is video with practical explaination
 https://www.youtube.com/watch?v=gWOJQFvMcbI
+
+command to add the user to access the shared folder 
+
+sudo adduser username vboxsf
+
+example : sudo adduser engineer vboxsf
