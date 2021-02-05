@@ -1,0 +1,6 @@
+to make the file unwritable use this command
+
+sudo chattr +i file_path
+
+example : sudo chattr +i /etc/resolv.conf
+
