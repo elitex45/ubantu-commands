@@ -4,3 +4,8 @@ sudo chattr +i file_path
 
 example : sudo chattr +i /etc/resolv.conf
 
+to make file writable again use this command
+
+sudo chattr -i file_path
+
+example : sudo chattr -i /etc/resolv.conf
