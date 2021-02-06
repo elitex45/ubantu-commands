@@ -1,0 +1,12 @@
+
+ Instead of giving the permission to change the folder to the user you can use this command to copy and paste the files. 
+NOTE : run this command inside the folder containing files you want to copy
+
+       sudo cp -r ./ filepath
+code breakdown
+sudo - giving perms
+cp - copy
+-r - recursively copying folder
+./ source folder
+/var/www/html destination folder 
+
