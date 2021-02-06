@@ -10,3 +10,6 @@ cp - copy
 ./ source folder
 /var/www/html destination folder 
 
+example :
+           sudo cp -r ./ /var/www/html
+           
