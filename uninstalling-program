@@ -1,0 +1,8 @@
+to uninstall a program in linux use this command
+
+$ sudo apt-get remove program-name
+
+example : if you want to uninstall the wireshark program
+
+$ sudo apt-get remove wireshark
+
